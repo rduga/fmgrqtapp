@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file alias="zoom-in.png" >Gnome-zoom-in.png</file>
+        <file alias="zoom-out.png" >Gnome-zoom-out.png</file>
+        <file>qt.png</file>
+        <file>filter.png</file>
+        <file alias="zoom-original.png" >Gnome-zoom-original.png</file>
+    </qresource>
+</RCC>

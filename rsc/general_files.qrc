@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/docs" >
+        <file>about.txt</file>
+        <file>help.txt</file>
+        <file>image.jpg</file>
+    </qresource>
+</RCC>

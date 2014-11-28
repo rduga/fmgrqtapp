@@ -1,0 +1,29 @@
+Help FileManager Help.
+-------------------------
+
+Main Features And Options:
+--------------------------
+The main features of this file manager are the following:
+
+- Show help (F1)
+- Rename the file (F2)
+- View the file (using FTextEditor or FImageViewer, extensions configurable in settings) (F3)
+- Edit the file (using FTextEditor, extensions configurable in settings) (F4)
+- Copy files (F5)
+- Move files (F6)
+- Make a new directory (F7)
+- Delete files (F8)
+- Show/Change access of file (F9)
+- Quit the program (F10)
+
+Control by keyboard:
+
+- Up, Down, Home, End, PgUp, PgDn - movement over focued list of files
+- Backspace - up current directory
+- Enter - execute and change current directory
+
+Next features:
+
+- changing the current directory of list by typing into line edit and pressing enter
+- changing drives in current list by selecting one of drives in combobox
+- selecting mupltiple files by mouse (you can use SHIFT and CTRL combinations)

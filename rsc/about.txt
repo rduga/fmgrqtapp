@@ -1,0 +1,13 @@
+About FileManager About.
+-------------------------
+
+FileManager
+-----------
+
+About this FileManager
+----------------------
+FileManager is a simple file manager similar to TotalCommander which is written using Qt toolkit library. This library is platform independent, so you can use this manager on windows, linux and other platforms which Qt supports.
+
+Compilation Requirements
+------------------------
+Program was written and tested using Qt toolkit library 4.5.3 so this version is recommended also for user to compile. Usually the newer or older versions of this library may work but they were not tested.
